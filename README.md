@@ -25,7 +25,7 @@
 
 Developer with more then 2 years of experience working in different environments. 
 <br>
-Currently working with Backend NodeJs at Calindra: https://calindra.tech/ 
+Currently working as Frontend at Calindra: https://calindra.tech/
 <br>
 Experienced in React, React Native, Typescript, Javascript and others. I also have knowledge in Databases such as Mysql, MongoDb.
 
