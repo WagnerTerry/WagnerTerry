@@ -23,7 +23,7 @@
 <!-- Experience -->
 <h3 align="left"> :man_technologist:&nbsp;Experience:</h3>
 
-Developer with more then 2 years of experience working in different environments. 
+Developer with more then 3 years of experience working in different environments. 
 <br>
 Currently working as Front-end at Calindra: https://calindra.tech/
 <br>
