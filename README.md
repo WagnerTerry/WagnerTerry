@@ -13,7 +13,7 @@
   </a>
   
   <a href="mailto:wagner.goncalves@calindra.com.br" alt="gmail" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:wagner.goncalves@calindra.com.br" />
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:goncalveswagner15@gmail.com" />
   </a>
 
 </div>
@@ -24,8 +24,6 @@
 <h3 align="left"> :man_technologist:&nbsp;Experience:</h3>
 
 Developer with more then 3 years of experience working in different environments. 
-<br>
-Currently working as Front-end at Calindra: https://calindra.tech/
 <br>
 Experienced in React, React Native, Typescript, Javascript and others. I also have knowledge in Databases such as Mysql, MongoDb.
 
