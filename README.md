@@ -40,7 +40,7 @@ Experienced in React, React Native, Typescript, Javascript and others. I also ha
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=white)
+  ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 <!--   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -49,8 +49,15 @@ Experienced in React, React Native, Typescript, Javascript and others. I also ha
    -->
    
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+  ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=React)
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
+  ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
+  ![Postgres](https://img.shields.io/badge/Postgres-333333?style=flat&logo=postgresql)
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma)
 
 **Development Tools**
 
@@ -61,12 +68,14 @@ Experienced in React, React Native, Typescript, Javascript and others. I also ha
 **Control Version**
   
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=#0052CC)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   
 **Utilities Tools**
   
   ![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger)
@@ -75,4 +84,12 @@ Experienced in React, React Native, Typescript, Javascript and others. I also ha
   
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6)
+
+**Deploy**
+
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+  ![Railway](https://img.shields.io/badge/-Railway-333333?style=flat&logo=railway)
+
+
+
 
