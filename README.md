@@ -40,17 +40,18 @@ Experienced in React, React Native, Typescript, Javascript and others. I also ha
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 <!--   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![StyledComponentes](https://img.shields.io/badge/-styled--componentes-333333?style=flat&logo=styled-components)
   ![MaterialUI](https://img.shields.io/badge/-Material--UI-333333?style=flat&logo=Material-UI)
    -->
-   
+
+  ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript) 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=React)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+  
   ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
   ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
   
