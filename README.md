@@ -23,7 +23,7 @@
 <!-- Experience -->
 <h3 align="left"> :man_technologist:&nbsp;Experience:</h3>
 
-Developer with more then 3 years of experience working in different environments. 
+Developer with more then 4 years of experience working in different environments. 
 <br>
 Experienced in React, React Native, Typescript, Javascript and others. I also have knowledge in Databases such as Mysql, MongoDb.
 
