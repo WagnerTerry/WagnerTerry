@@ -49,8 +49,10 @@ Experienced in React, React Native, Typescript, Javascript and others. I also ha
 
   ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript) 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
-  ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=React)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+
+  ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=React)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   
   ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
   ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
