@@ -25,7 +25,7 @@
 
 Developer with more then 5 years of experience working in different environments. 
 <br>
-Experienced in React, React Native, Typescript, Javascript and others. I also have knowledge in Databases such as Mysql, MongoDb.
+Experienced in React, React Native, Typescript, Javascript and others. I also have knowledge in Databases such as MySQL, MongoDB.
 
 <!-- Skills -->
 <h3 align="left"> :rocket:&nbsp;Skills:</h3>
